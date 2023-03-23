@@ -1,11 +1,13 @@
-// import './App.css';
-import { Box, Typography } from '@mui/material';
-import MuiBox from './Components/MuiBox';
+import './App.css';
+
+// import MuiBox from './Components/MuiBox';
+import MuiButtons from './Components/MuiButtons';
 
 function App() {
   return (
    <>
-   <MuiBox/>
+   {/* <MuiBox/> */}
+   <MuiButtons/>
    </>
   );
 }
