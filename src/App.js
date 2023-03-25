@@ -1,5 +1,6 @@
 import './App.css';
-import MuiButtonGroups from './Components/MuiButtonGroups';
+// import MuiButtonGroups from './Components/MuiButtonGroups';
+import MuiTextField from './Components/MuiTextField';
 
 // import MuiBox from './Components/MuiBox';
 // import MuiButtons from './Components/MuiButtons';
@@ -9,7 +10,8 @@ function App() {
    <>
    {/* <MuiBox/> */}
    {/* <MuiButtons/> */}
-   <MuiButtonGroups/>
+   {/* <MuiButtonGroups/> */}
+   <MuiTextField/>
    </>
   );
 }
